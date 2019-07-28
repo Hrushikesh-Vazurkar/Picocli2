@@ -1,0 +1,7 @@
+Software
+
+1. The machine should have maven installed and appended to the PATH variable in windows(or its equivalent in Linux or Mac)
+
+Database
+
+1. Create a user with username "picoCLI" and no password (Code can be modified to suit your own user also).
